@@ -1,0 +1,7 @@
+[2022-04-09T22:54:07.213] [ERROR] error - ReferenceError: ctx is not defined
+    at /Users/yinzhixiang/Desktop/dell/manager/node/manager-server/app.js:31:3
+    at dispatch (/Users/yinzhixiang/Desktop/dell/manager/node/manager-server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at views (/Users/yinzhixiang/Desktop/dell/manager/node/manager-server/node_modules/_koa-views@6.3.1@koa-views/src/index.js:91:12)
+    at dispatch (/Users/yinzhixiang/Desktop/dell/manager/node/manager-server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at serve (/Users/yinzhixiang/Desktop/dell/manager/node/manager-server/node_modules/_koa-static@5.0.0@koa-static/index.js:53:15)
+    at async bodyParser (/Users/yinzhixiang/Desktop/dell/manager/node/manager-server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
